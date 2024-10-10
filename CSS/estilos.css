@@ -1,0 +1,59 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ff8000;
+}
+/*header*/
+.header{
+    color: white;
+    padding: 30px 15px;
+    margin: 0 auto;
+    border-bottom: 10px solid #E66000;
+    background-color: #2e2e2e;
+}
+/*bBarra de Navegación*/
+.navbar{
+    width: 960px;
+    height: 65px;
+    background-color: #111;
+}
+ul{
+    padding: 0;
+    margin: 0;
+    height: 45px;
+    list-style: none;
+}
+li{
+    float: left;
+    padding: 20px;
+}
+a{
+    color: white;
+    border-right: 2px solid white;
+    padding: 0 20px;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+/*El contenido de la pagina*/
+.cont {
+    padding: 0;
+    margin: 50px auto 0;
+    width: 960px;
+}
+.contenido {
+    margin: 0;
+    padding: 10px;
+    float: left;
+    width: 938px;
+    background-color: #fff;
+    border: 1px solid #111;
+}
+/*justificar contenido*/
+.justificar{
+    text-align: justify;
+}
+.centrar {
+    text-align: center;
+}
