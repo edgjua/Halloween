@@ -57,3 +57,11 @@ a{
 .centrar {
     text-align: center;
 }
+.footer{
+    background-color:#2e2e2e;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    width: 100%;
+    margin: 0;
+}
